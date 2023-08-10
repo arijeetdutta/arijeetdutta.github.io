@@ -190,7 +190,7 @@ collections:
     permalink: /:collection/:path/
 
 # Defaults
-defaults:
+# defaults:
   # _posts
   # - scope:
   #     path: ""
