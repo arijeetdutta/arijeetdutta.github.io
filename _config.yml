@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Arijeet Dutta"
 title_separator          : "-"
 name                     : &name "Arijeet Dutta"
-description              : &description "personal description"
-url                      : https://arijeetdutta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Climate Scientist"
+url                      : https://minminfu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arijeetdutta/arijeetdutta.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,11 +83,11 @@ author:
   name             : "Arijeet Dutta"
   avatar           : "IMG-20230523-WA0039.jpg"
   bio              : "Researcher in climate science"
-  location         : "Pune IN"
+  location         : "Pune, IN"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.co.in/citations?user=xpevUjAAAAAJ&hl=en"
-  email            :
+  email            : "dutta.arijeet@students.iiserpune.ac.in"
   researchgate     : "https://www.researchgate.net/profile/Arijeet-Dutta"
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-5305-5203"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -174,7 +174,6 @@ kramdown:
   enable_coderay: false
 
 
-# Collections
 # Collections
 collections:
   teaching:
@@ -246,7 +245,6 @@ defaults:
       author_profile: true
       share: true
 
-      
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -257,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
