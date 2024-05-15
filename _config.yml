@@ -11,7 +11,7 @@ title                    : "Arijeet Dutta"
 title_separator          : "-"
 name                     : &name "Arijeet Dutta"
 description              : &description "Climate Scientist"
-url                      : https://minminfu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://arijeetdutta.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arijeetdutta/arijeetdutta.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.in/citations?user=xpevUjAAAAAJ&hl=en"
-  email            : "dutta.arijeet@students.iiserpune.ac.in"
+  email            : "a.dutta.2@bham.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Arijeet-Dutta"
   uri              :
   bitbucket        :
