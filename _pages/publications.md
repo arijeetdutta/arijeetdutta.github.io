@@ -4,6 +4,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+**Dutta, A.**, Geen, R. & Sonnewald, M. (submitted). Unlocking an atmospheric model hierarchy with interpretable machine learning
 
 **Dutta, A.**, Sivankutty, R. & Neena, J.M. (2024). Investigating the Atlantic-Indian monsoon teleconnection pathways in PMIP3 last millennium simulations. Clim Dyn 62, 1765–1782. https://doi.org/10.1007/s00382-023-06994-2
 
